@@ -26,7 +26,7 @@ ollama run screening-test:3b
 >>> Оцени соответствие кандидата вакансии.
 >>> Резюме: Опыт разработки на Python, Django. Работа с PostgreSQL. Стаж 3 года.
 >>> Вакансия: Требуется Backend Developer (Python), опыт 3-5 лет, стек Django, PostgreSQL.
-```
+
 
 ## 📊 Параметры обучения
 
